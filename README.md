@@ -1,5 +1,9 @@
 # SU-Test10
 - Grand Edit
+<<<<<<< HEAD
+=======
+- KDASDIASDIAKSFIK
+>>>>>>> 31d6e2ce5829c9b48dc5816808c236ea0b608060
 - Witit added this line
 - Blackisland write this line 
 - blue eye white dragon not write this line
