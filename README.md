@@ -4,7 +4,7 @@ Blackisland write this line
 blue eye white dragon not write this line
 chaba
 i'm Kirana
-Pinoy                (i'm Danny )
-
+Pinoy
 mawnam
 Added by rzkpure
+Drelar
