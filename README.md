@@ -1,5 +1,5 @@
 # SU-Test10
-- Eunfon
+- Eunfon << https://github.com/eunfon/testAgain
 - Grand Edit
 - KDASDIASDIAKSFIK
 - Blackisland Grand Edit << https://github.com/Blackisland/HomeWork
@@ -15,7 +15,7 @@
 - Sun << https://github.com/sunny1302/Thesis-BP
 - (i'm Danny )<<Fuck Off
 - Alone Always
-- yui ii //https://github.com/yuichan005/ngng
+- yui ii
 - GO GO POWER RANGERS (BORAX) << https://github.com/petchssss/GUFUP
 - Lis1en << https://github.com/Lis1en/https-github.com-Lis1en-unityTest
 
