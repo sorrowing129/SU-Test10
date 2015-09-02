@@ -1,5 +1,5 @@
 # SU-Test10
-- Eunfon
+- Eunfon << https://github.com/eunfon/testAgain
 - Grand Edit
 - KDASDIASDIAKSFIK
 - Blackisland Grand Edit << https://github.com/Blackisland/HomeWork
@@ -7,7 +7,6 @@
 - Blackisland write this line 
 - blue eye white dragon not write this line
 - chaba
-- i'm Kirana
 - Pinoy
 - mawnam
 - Added by rzkpure << https://github.com/rzkpure/newtest
