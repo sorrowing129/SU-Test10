@@ -11,7 +11,7 @@
 - mawnam
 - 13550088 Added by rzkpure << https://github.com/rzkpure/newtest
 - Drelar << https://github.com/naivebong/13550214_Warayut
-- Sun << https://github.com/sunny1302/Thesis-BP
+- 13550157 Sun << https://github.com/sunny1302/Thesis-BP
 - (i'm Danny )<<Fuck Off
 - Alone Always << https://github.com/piya6185/13550176homework01
 - 13550180 yui ii //https://github.com/yuichan005/ngng
