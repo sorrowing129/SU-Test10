@@ -20,9 +20,9 @@
 - Daow << https://github.com/daonatta/test4
 - Yhow Poi Poi POi << https://github.com/xenoxros/HomeWork
 - 13550145 Khim ngai ga kai la <<https://github.com/khim1569/Homework01
-- 13550258 four4<<https://github.com/apiwich4444/apiwich4444
+- four4<<https://github.com/apiwich4444/apiwich4444
 - Danny <<https://github.com/danducheine/Danny
-- Tault (https://github.com/republic07/Test)
+- Tault 13550133 (https://github.com/republic07/Test)
 - pak << https://github.com/pak007/Test_Unity
 
 # Header 1
