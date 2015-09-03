@@ -18,7 +18,7 @@
 - GO GO POWER RANGERS (BORAX) << https://github.com/petchssss/GUFUP
 - Lis1en << https://github.com/Lis1en/https-github.com-Lis1en-unityTest
 - 13550166 Daow << https://github.com/daonatta/test4
-- 13550171 Yhow Poi Poi POi << https://github.com/xenoxros/HomeWork
+- Yhow Poi Poi POi << https://github.com/xenoxros/HomeWork
 - KhumKhim ngai ga kai la <<https://github.com/khim1569/Homework01
 - four4<<https://github.com/apiwich4444/apiwich4444
 - Danny <<https://github.com/danducheine/Danny
