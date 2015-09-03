@@ -7,7 +7,7 @@
 - Blackisland write this line 
 - blue eye white dragon not write this line
 - chaba << https://github.com/arkomchabaza/Chaba13550262
-- Arm << https://github.com/exsodiaman/HomeWork
+- 13550128 Arm << https://github.com/exsodiaman/HomeWork
 - mawnam
 - Added by rzkpure << https://github.com/rzkpure/newtest
 - Drelar << https://github.com/naivebong/13550214_Warayut
@@ -19,7 +19,7 @@
 - Lis1en << https://github.com/Lis1en/https-github.com-Lis1en-unityTest
 - Daow << https://github.com/daonatta/test4
 - Yhow Poi Poi POi << https://github.com/xenoxros/HomeWork
-- KhumKhim ngai ga kai la <<https://github.com/khim1569/Homework01
+- 13550145 Khim ngai ga kai la <<https://github.com/khim1569/Homework01
 - four4<<https://github.com/apiwich4444/apiwich4444
 - Danny <<https://github.com/danducheine/Danny
 - Tault (https://github.com/republic07/Test)
